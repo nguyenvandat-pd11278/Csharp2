@@ -1,0 +1,14 @@
+F:\c++\lab 1\bai2\bin\Debug\net8.0\bai2.exe
+F:\c++\lab 1\bai2\bin\Debug\net8.0\bai2.deps.json
+F:\c++\lab 1\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+F:\c++\lab 1\bai2\bin\Debug\net8.0\bai2.dll
+F:\c++\lab 1\bai2\bin\Debug\net8.0\bai2.pdb
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.dll
+F:\c++\lab 1\bai2\obj\Debug\net8.0\refint\bai2.dll
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.pdb
+F:\c++\lab 1\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+F:\c++\lab 1\bai2\obj\Debug\net8.0\ref\bai2.dll

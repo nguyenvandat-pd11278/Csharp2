@@ -1,0 +1,14 @@
+F:\C#\lab 1\baitaplamthem\bin\Debug\net8.0\baitaplamthem.exe
+F:\C#\lab 1\baitaplamthem\bin\Debug\net8.0\baitaplamthem.deps.json
+F:\C#\lab 1\baitaplamthem\bin\Debug\net8.0\baitaplamthem.runtimeconfig.json
+F:\C#\lab 1\baitaplamthem\bin\Debug\net8.0\baitaplamthem.dll
+F:\C#\lab 1\baitaplamthem\bin\Debug\net8.0\baitaplamthem.pdb
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.AssemblyInfoInputs.cache
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.AssemblyInfo.cs
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.csproj.CoreCompileInputs.cache
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.dll
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\refint\baitaplamthem.dll
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.pdb
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\baitaplamthem.genruntimeconfig.cache
+F:\C#\lab 1\baitaplamthem\obj\Debug\net8.0\ref\baitaplamthem.dll
