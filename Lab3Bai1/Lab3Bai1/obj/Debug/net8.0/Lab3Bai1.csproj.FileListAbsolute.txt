@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\bin\Debug\net8.0\Lab3Bai1.exe
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\bin\Debug\net8.0\Lab3Bai1.deps.json
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\bin\Debug\net8.0\Lab3Bai1.runtimeconfig.json
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\bin\Debug\net8.0\Lab3Bai1.dll
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\bin\Debug\net8.0\Lab3Bai1.pdb
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.sourcelink.json
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.dll
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\refint\Lab3Bai1.dll
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.pdb
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\Lab3Bai1.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Csharp2\Lab3Bai1\Lab3Bai1\obj\Debug\net8.0\ref\Lab3Bai1.dll
