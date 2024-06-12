@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32EE391-39E3-4666-AF59-B2C46B9DD5B2}|Lab3Bai1\\Lab3Bai1.csproj|c:\\users\\acer\\desktop\\csharp2\\lab3bai1\\lab3bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32EE391-39E3-4666-AF59-B2C46B9DD5B2}|Lab3Bai1\\Lab3Bai1.csproj|solutionrelative:lab3bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963C48A-F4D3-4027-8BD2-F5938E537A05}|Lab3bai3\\Lab3bai3.csproj|c:\\users\\acer\\desktop\\csharp2\\lab3bai1\\lab3bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963C48A-F4D3-4027-8BD2-F5938E537A05}|Lab3bai3\\Lab3bai3.csproj|solutionrelative:lab3bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FA2218-26A4-4E97-9053-7C1848DB3207}|Lab3bai2\\Lab3bai2.csproj|c:\\users\\acer\\desktop\\csharp2\\lab3bai1\\lab3bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FA2218-26A4-4E97-9053-7C1848DB3207}|Lab3bai2\\Lab3bai2.csproj|solutionrelative:lab3bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3bai3\\Program.cs",
+              "RelativeToolTip": "Lab3bai3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:52:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3bai2\\Program.cs",
+              "RelativeToolTip": "Lab3bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:35:31.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Csharp2\\Lab3Bai1\\Lab3Bai1\\Program.cs",
+              "RelativeToolTip": "Lab3Bai1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:22:46.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

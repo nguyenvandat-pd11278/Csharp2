@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\bin\Debug\net8.0\Lab5bai2.exe
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\bin\Debug\net8.0\Lab5bai2.deps.json
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\bin\Debug\net8.0\Lab5bai2.runtimeconfig.json
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\bin\Debug\net8.0\Lab5bai2.dll
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\bin\Debug\net8.0\Lab5bai2.pdb
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.dll
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\refint\Lab5bai2.dll
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.pdb
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\Lab5bai2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Lab5bai1\Lab5bai2\obj\Debug\net8.0\ref\Lab5bai2.dll

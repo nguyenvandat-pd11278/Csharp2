@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\bin\Debug\net8.0\Lab7Bai1.exe
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\bin\Debug\net8.0\Lab7Bai1.deps.json
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\bin\Debug\net8.0\Lab7Bai1.runtimeconfig.json
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\bin\Debug\net8.0\Lab7Bai1.dll
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\bin\Debug\net8.0\Lab7Bai1.pdb
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.dll
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\refint\Lab7Bai1.dll
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.pdb
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\Lab7Bai1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Lab7Bai1\Lab7Bai1\obj\Debug\net8.0\ref\Lab7Bai1.dll

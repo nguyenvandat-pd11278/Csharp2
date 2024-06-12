@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Lab5bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C296E5-6B0F-47E0-93CE-3B2C1AD42062}|Lab5bai2\\Lab5bai2.csproj|c:\\users\\acer\\source\\repos\\lab5bai1\\lab5bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C296E5-6B0F-47E0-93CE-3B2C1AD42062}|Lab5bai2\\Lab5bai2.csproj|solutionrelative:lab5bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFC9B7C-D132-4726-A532-689C0F1C0F8A}|Lab5bai1\\Lab5bai1.csproj|c:\\users\\acer\\source\\repos\\lab5bai1\\lab5bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFC9B7C-D132-4726-A532-689C0F1C0F8A}|Lab5bai1\\Lab5bai1.csproj|solutionrelative:lab5bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Lab5bai1\\Lab5bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Lab5bai1\\Lab5bai2\\Program.cs",
+              "RelativeToolTip": "Lab5bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:06:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Lab5bai1\\Lab5bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Lab5bai1\\Lab5bai1\\Program.cs",
+              "RelativeToolTip": "Lab5bai1\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:04:54.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
